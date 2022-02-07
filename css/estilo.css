@@ -1,0 +1,38 @@
+
+h2, #foot {
+color: white;
+word-break: normal;
+}
+
+h3 {
+    text-align: center;
+    word-break: normal;
+}
+
+p {
+    text-align: center;
+    word-break: normal;
+}
+
+.div_con1 {
+width: 99%;
+height: 200px;
+border: 10px solid gray;
+background-color: gray;
+display: flex;
+justify-content: center;
+align-items: center;
+padding: 2px;
+}
+
+.div_con2 {
+border: 10px solid red;
+width: 99%;
+height: 200px;
+background: green;  
+justify-content: center;
+align-items: center;
+padding: 2px;
+
+}
+
